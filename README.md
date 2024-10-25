@@ -1,6 +1,5 @@
 # Hi 👋, I'm Pradeepthi Dirisala
 
-Profile views ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=blue&style=flat)
 
 🌱 I’m currently learning ** Data Analytics and Business Analytics **
 
