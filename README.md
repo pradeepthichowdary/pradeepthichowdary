@@ -3,8 +3,6 @@
 
 🌱 I’m currently learning ** Data Analytics and Business Analytics **
 
-🔗 All of my projects are available at [My GitHub Projects](https://github.com/your-github-username)
-
 ⭐ **Google Data Analytics Certified**
 
 💬 Ask me about **Data Analytics, Business Intelligence, Power BI, Data Visualization**
