@@ -58,5 +58,5 @@
 
 
 ### Connect with me 😎👋
-- [LinkedIn](https://linkedin.com/in/your-linkedin-handle)
+- [LinkedIn](https://www.linkedin.com/in/pradeepthi-d)
 - [GitHub](https://github.com/your-github-username)
